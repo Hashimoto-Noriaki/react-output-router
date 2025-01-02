@@ -1,0 +1,1 @@
+export const TodoDetailPage = () => <div>詳細</div>;
